@@ -10,5 +10,6 @@ namespace Spatest2.Classes
     internal class ChuCuaHang
     {
         private int id;
+        int hehe;
     }
 }
